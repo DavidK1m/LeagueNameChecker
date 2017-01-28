@@ -17,7 +17,7 @@ import json
 import datetime
 
 
-MY_KEY = 'ce14c093-38d2-4a49-acf4-2a5a6e8f4d7e'  #just used for testing
+MY_KEY = ''  #just used for testing
 MY_SUMMONER_ID = 22788951 			 #just used for testing
 BASE_URL = r'https://na.api.pvp.net/'
 
